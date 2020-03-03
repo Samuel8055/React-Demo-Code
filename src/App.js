@@ -27,6 +27,7 @@ class App extends Component {
     console.log(this.state.id)
     return (
       <div>
+        // Add two buttons
         {/* <button onClick = {this}>Button 1</button> */}
         <Main persons = {this.state.personArr} clicked = {this.handleClick} />
       </div>
