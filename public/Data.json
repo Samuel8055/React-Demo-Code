@@ -1,0 +1,15 @@
+{
+    "states": [
+        {
+            "id": 0,
+            "state_name": "Karnataka",
+            "about": "About Karnataka..."
+        },
+
+        {
+            "id": 1,
+            "state_name": "Tamilnadu",
+            "about": "About Tamilnadu..."
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+{
+    "items": [
+        {"id": 0, "name": "Wills", "age": 28},
+        {"id": 1, "name": "Pete", "age": 30}
+    ]
+}
